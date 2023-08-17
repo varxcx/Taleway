@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>871854536332-kjg7gdd2nh42qu9kogjl5dd6obr35j3q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.871854536332-kjg7gdd2nh42qu9kogjl5dd6obr35j3q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDGujx91sB8Z4C8fdj_wd9et3GeMSxOfyg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>871854536332</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vxcx.Taleway</string>
+	<key>PROJECT_ID</key>
+	<string>taleway-vxcx</string>
+	<key>STORAGE_BUCKET</key>
+	<string>taleway-vxcx.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:871854536332:ios:dd2dfe602e1fcebc712da9</string>
+</dict>
+</plist>

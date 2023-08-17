@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A8AAE82A-9E22-4863-9008-F041FFCAB88F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04047710-5554-44DD-8FD1-A7855405F177"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Taleway/NoInternetConnection/NoInternetAvailableView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "retrySelected()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "04047710-5554-44DD-8FD1-A7855405F177 - ee8b6b5f858c0dfc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taleway.NoInterentAvailableView.retrySelected() -&gt; ()"
+                  moduleName = "Taleway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vardhanchopada/Documents/Taleway/Taleway/NoInternetConnection/NoInternetAvailableView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "04047710-5554-44DD-8FD1-A7855405F177 - ee8b6b5f858c0c1b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Taleway.NoInterentAvailableView.retrySelected() -&gt; ()"
+                  moduleName = "Taleway"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vardhanchopada/Documents/Taleway/Taleway/NoInternetConnection/NoInternetAvailableView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
